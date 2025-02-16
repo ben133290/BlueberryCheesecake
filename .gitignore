@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+*.DS_Store
+
+./Builds/MacOSX/builds
+
 # Compiled Object files
 *.slo
 *.lo
